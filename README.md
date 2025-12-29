@@ -1,16 +1,19 @@
-## Hi there 👋
+# tevoshw
 
-<!--
-**tevoshw/tevoshw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning , Data Science & Software Engineering Student**
 
-Here are some ideas to get you started:
+- Continuous documentation of my studies
+- Learning and experimentation repositories
+- Projects focused on solid fundamentals
+- Organized, readable, and explanatory code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of study
+- Machine Learning
+- Data Science
+- Programming and software fundamentals
+- Data structures and algorithms
+- Experiments, notebooks, and study projects
+
+## Contact 📫 
+- **Email:** @tevoshw@gmail.com
+- **X:** tevooshow
