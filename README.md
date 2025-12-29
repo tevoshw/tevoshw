@@ -15,5 +15,6 @@
 - Experiments, notebooks, and study projects
 
 ## Contact 📫 
-- **Email:** @tevoshw@gmail.com
-- **X:** tevooshow
+- **Email:** [tevoshw@gmail.com](mailto:tevoshw@gmail.com)
+- **X:** [tevooshow](https://x.com/tevooshow)
+
