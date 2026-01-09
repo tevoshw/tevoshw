@@ -17,5 +17,5 @@
 ## Contact 📫 
 - **Email:** [tevoshw@gmail.com](mailto:tevoshw@gmail.com)
 - **X:** [tevooshow](https://x.com/tevooshow)
-- **Instagram:** [tevoshw](https://instagram.com/tevoshw)
+- **Discord:** [tevoshw]()
 
